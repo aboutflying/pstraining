@@ -36,7 +36,7 @@ Quest 2
 
 Extra Credit
 
-- Add code to your script to copy the file you located in Quest 1 to your local computer, then commit, push and open a PR to have it reviewed. Hint: you'll need to look up string replace methods to make this work.
+- Add code to your script to copy the file you located in Quest 1 to your local computer, then commit, push and open a PR to have it reviewed.
 
 Notes/Rules:
 
