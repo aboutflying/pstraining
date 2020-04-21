@@ -1,19 +1,19 @@
 Day 2
 
 1. Variables
-    Syntax
-    How to set
-    Practical example
+   - Syntax
+   - How to set
+   - Practical example
 2. Methods and properties
-    Syntax
-    How to use
-    Practical example
+    - Syntax
+    - How to use
+    - Practical example
 3. How to run commands on remote computers using invoke-commands
-    Syntax
-    How to use
-    Practical example
+    - Syntax
+    - How to use
+    - Practical example
 4. Self-teaching
-    Section 4 and 5: https://app.pluralsight.com/library/courses/powershell-getting-started/table-of-contents
+    - Section 4 and 5: https://app.pluralsight.com/library/courses/powershell-getting-started/table-of-contents
 5. Complete quests after watching the above training
 
 Quest 1
