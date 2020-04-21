@@ -21,7 +21,7 @@ Quest 1
 
 1. Create a branch in your repo called 'feature/day2'
 2. Create a directory in your local copy of your repository called 'Day 2'
-3. Write a powershell script that locates and outputs information about a specific file from a remote server. The remote server you'll use is <redacted>. 
+3. Write a powershell script that locates and outputs information about a specific file from a remote server. The remote server you'll use is ``<redacted>``. 
     Your goal is to locate a file with the following properties, using only powershell scripting:
     - File size is 90614
     - File is located on the C drive
@@ -43,9 +43,8 @@ Notes/Rules:
 
 - Skip the part in Pluralsight about enabling remote functionality in section 5 "Remoting with Powershell" - it isn't needed
 - Set the server name using a variable at the top of your script. Use this variable whenever you would normally type it in statically.
-- The path format for a remote computer is \\<computername>\<driveletter>$\<path> i.e. \\<IPOrHostName>\c$\Windows\coolfile.txt
-- Filenames/paths should be discovered and set programatically in your scripts i.e. if you discover that the file path is C:\blahblah.txt, you cannot statically use "C:\blahblah.txt" in your script
-- Output from a command can be captured and assigned to a variable, and reused in  your script i.e. ${myVar} = Get-Childitem C:\
+- The path format for a remote computer is ``\\<computername>\<driveletter>$\<path>`` i.e. ``\\<IPOrHostName>\c$\Windows\coolfile.txt``
+- Filenames/paths should be discovered and set programatically in your scripts i.e. if you discover that the file path is ``C:\blahblah.txt``, you cannot statically use ``"C:\blahblah.txt"`` in your script
+- Output from a command can be captured and assigned to a variable, and reused in  your script i.e. ``${myVar} = Get-Childitem C:\``
 - "Length" is the property for file size in Powershell
 - The pluralsight training will only get you part of the way there. The rest you will need to figure out using get-help and the online Microsoft documentation/examples. Make sure teo read the command descriptions closely!
-```
