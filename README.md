@@ -13,7 +13,7 @@ Day 2
     - How to use
     - Practical example
 4. Self-teaching
-    - Section 4 and 5: https://app.pluralsight.com/library/courses/powershell-getting-started/table-of-contents
+    - Section 4 (Gathering information) and 5 (Remoting): https://app.pluralsight.com/library/courses/powershell-getting-started/table-of-contents
 5. Complete quests after watching the above training
 
 Quest 1
