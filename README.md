@@ -1,3 +1,4 @@
+```
 Day 2
 
 1. Variables
@@ -47,3 +48,4 @@ Notes/Rules:
 - Output from a command can be captured and assigned to a variable, and reused in  your script i.e. ${myVar} = Get-Childitem C:\
 - "Length" is the property for file size in Powershell
 - The pluralsight training will only get you part of the way there. The rest you will need to figure out using get-help and the online Microsoft documentation/examples. Make sure teo read the command descriptions closely!
+```
