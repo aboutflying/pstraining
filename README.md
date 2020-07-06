@@ -49,4 +49,3 @@ Notes/Rules:
 - The pluralsight training will only get you part of the way there. The rest you will need to figure out using get-help and the online Microsoft documentation/examples. Make sure teo read the command descriptions closely!
 
 something
-something else
